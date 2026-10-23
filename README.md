@@ -254,3 +254,15 @@ La carpeta `build/` es temporal y puede eliminarse después de validar el ejecut
 - La descarga de asistencias requiere un checador compatible y accesible en la red local.
 - Los conectores incluidos son ZKTeco (pyzk) e Hikvision (ISAPI); otras marcas requerirían un adaptador.
 - El repositorio no incluye datos reales, infraestructura interna, credenciales de producción ni historial de la empresa.
+
+  ## Créditos
+
+Diseño y desarrollo: **Josué Lucero**.
+
+Proyecto de portafolio. Todos los derechos reservados.
+
+---
+
+<div align="center">
+  <sub>Hecho en México · <a href="https://github.com/JosueLuceroG">github.com/JosueLuceroG</a></sub>
+</div>
