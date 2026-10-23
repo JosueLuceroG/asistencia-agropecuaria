@@ -1,0 +1,2317 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-10-23T11:13:48",
+  "records": [
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-28T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-28T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-28T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-28T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-28T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-28T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-28T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-28T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-28T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-28T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-28T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-28T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-28T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-28T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-28T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-28T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-29T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-29T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-29T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-29T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-29T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-29T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-29T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-29T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-29T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-29T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-29T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-29T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-29T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-29T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-29T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-29T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-30T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-30T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-30T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-30T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-30T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-30T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-30T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-30T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-09-30T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-09-30T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-09-30T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-09-30T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-09-30T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-09-30T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-09-30T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-09-30T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-01T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-01T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-01T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-01T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-01T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-01T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-01T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-01T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-01T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-01T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-01T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-01T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-01T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-01T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-01T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-01T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-02T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-02T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-02T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-02T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-02T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-02T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-02T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-02T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-02T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-02T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-02T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-02T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-02T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-02T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-02T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-02T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-05T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-05T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-05T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-05T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-05T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-05T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-05T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-05T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-05T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-05T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-05T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-05T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-05T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-05T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-05T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-05T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-06T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-06T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-06T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-06T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-06T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-06T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-06T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-06T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-06T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-06T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-06T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-06T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-06T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-06T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-06T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-06T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-07T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-07T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-07T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-07T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-07T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-07T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-07T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-07T08:08:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-07T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-07T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-07T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-07T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-07T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-07T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-07T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-07T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-08T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-08T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-08T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-08T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-08T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-08T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-08T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-08T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-08T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-08T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-08T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-08T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-08T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-08T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-08T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-08T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-09T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-09T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-09T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-09T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-09T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-09T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-09T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-09T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-09T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-09T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-09T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-09T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-09T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-09T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-09T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-09T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-10T09:00:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-10T09:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-10T09:06:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-10T09:09:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-10T13:00:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-10T13:02:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-10T13:04:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-10T13:06:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-12T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-12T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-12T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-12T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-12T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-12T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-12T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-12T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-12T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-12T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-12T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-12T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-12T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-12T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-12T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-12T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-13T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-13T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-13T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-13T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-13T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-13T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-13T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-13T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-13T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-13T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-13T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-13T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-13T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-13T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-13T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-13T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-14T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-14T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-14T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-14T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-14T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-14T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-14T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-14T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-14T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-14T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-14T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-14T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-14T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-14T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-14T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-14T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-15T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-15T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-15T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-15T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-15T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-15T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-15T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-15T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-15T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-15T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-15T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-15T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-15T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-15T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-15T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-15T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-16T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-16T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-16T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-16T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-16T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-16T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-16T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-16T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-16T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-16T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-16T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-16T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-16T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-16T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-16T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-16T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-19T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-19T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-19T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-19T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-19T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-19T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-19T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-19T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-19T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-19T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-19T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-19T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-19T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-19T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-19T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-19T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-20T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-20T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-20T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-20T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-20T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-20T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-20T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-20T08:08:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-20T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-20T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-20T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-20T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-20T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-20T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-20T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-20T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-21T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-21T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-21T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-21T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-21T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-21T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-21T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-21T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-21T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-21T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-21T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-21T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-21T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-21T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-21T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-22T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-22T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-22T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-22T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-22T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-22T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-22T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-22T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-22T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-22T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-22T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-22T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-22T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-22T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-22T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-22T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-23T05:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-23T07:49:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-23T07:50:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-23T07:51:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-23T07:52:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-23T07:53:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-23T07:54:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-23T07:55:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Ana Torres",
+      "timestamp": "2026-10-23T14:03:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Luis Ramírez",
+      "timestamp": "2026-10-23T17:20:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "María López",
+      "timestamp": "2026-10-23T17:22:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Jorge Salinas",
+      "timestamp": "2026-10-23T17:24:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Paola Méndez",
+      "timestamp": "2026-10-23T17:26:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Diego Herrera",
+      "timestamp": "2026-10-23T17:28:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Norte",
+      "name": "Sofía Castro",
+      "timestamp": "2026-10-23T17:30:00",
+      "source": "checador",
+      "downloaded_at": ""
+    },
+    {
+      "device": "Caseta Sur",
+      "name": "Emilio Vargas",
+      "timestamp": "2026-10-23T17:32:00",
+      "source": "checador",
+      "downloaded_at": ""
+    }
+  ],
+  "device_sync": {
+    "Caseta Norte": {
+      "device": "Caseta Norte",
+      "last_successful_sync": "2026-10-23T08:55:00",
+      "last_record_timestamp": "2026-10-23T17:20:00",
+      "last_received": 168,
+      "last_added": 168,
+      "last_total": 168,
+      "last_error": "",
+      "last_error_at": ""
+    },
+    "Caseta Sur": {
+      "device": "Caseta Sur",
+      "last_successful_sync": "2026-10-22T17:38:00",
+      "last_record_timestamp": "2026-10-22T17:31:00",
+      "last_received": 159,
+      "last_added": 159,
+      "last_total": 159,
+      "last_error": "Tiempo de espera agotado al consultar eventos.",
+      "last_error_at": "2026-10-23T08:57:00"
+    }
+  }
+}

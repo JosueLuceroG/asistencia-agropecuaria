@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv-1/
+build/
+dist/
+entrega/
+
+# Datos operativos locales (demo/ sí se versiona)
+/config_global.json
+/attendance_cache.json
+/processing_history.json
+/usuarios.json
+/ui_preferences.json
+/hikvision_debug.txt
+/respaldos_previos/
+**/.asistencia_agropecuaria.lock
+*.tmp
+*.restore.tmp
+*.corrupto.*.bak
+*.log
+
+# Reportes y configuración local
+*.xlsx
+*.xls
+!/demo/reporte-ejemplo.xlsx
+/demo/Reportes/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

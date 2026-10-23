@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "users": [
+    {
+      "username": "admin",
+      "display_name": "Administrador",
+      "active": true,
+      "permissions": [
+        "attendance.download",
+        "backups.create",
+        "backups.restore",
+        "biometrics.manage",
+        "device_health.view",
+        "devices.manage",
+        "history.view",
+        "non_working_days.manage",
+        "people.manage",
+        "reports.generate",
+        "schedules.manage",
+        "users.manage"
+      ],
+      "password": {
+        "algorithm": "pbkdf2_sha256",
+        "iterations": 310000,
+        "salt": "6FZrj1llWA9hmrthjiLAtw==",
+        "hash": "YMxPnZZ6Qp151i0ZCo+RKh+vNdC6D0Ous6iIUU5YgP4="
+      },
+      "must_change_password": false,
+      "created_at": "2026-10-23T11:13:48",
+      "updated_at": "2026-10-23T11:13:48"
+    },
+    {
+      "username": "nomina",
+      "display_name": "Nómina",
+      "active": true,
+      "permissions": [
+        "attendance.download",
+        "backups.create",
+        "device_health.view",
+        "history.view",
+        "non_working_days.manage",
+        "people.manage",
+        "reports.generate",
+        "schedules.manage"
+      ],
+      "password": {
+        "algorithm": "pbkdf2_sha256",
+        "iterations": 310000,
+        "salt": "wDYdofv436mNiWWHCKO2qQ==",
+        "hash": "YB5fLLmu2kfxzER8Yf2gsJBzQ38yYy0L/mR+YyaNPbs="
+      },
+      "must_change_password": false,
+      "created_at": "2026-10-23T11:13:48",
+      "updated_at": "2026-10-23T11:13:48"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+    "checadores": [
+        {
+            "nombre": "Caseta Norte",
+            "ip": "192.0.2.10",
+            "port": 4370,
+            "marca": "zkteco",
+            "modo_conexion": "tcp",
+            "empleados": [
+                "Ana Torres",
+                "Diego Herrera",
+                "Emilio Vargas",
+                "Jorge Salinas",
+                "Luis Ramírez",
+                "María López",
+                "Paola Méndez",
+                "Sofía Castro"
+            ],
+            "empleados_descargados": [
+                "Ana Torres",
+                "Diego Herrera",
+                "Emilio Vargas",
+                "Jorge Salinas",
+                "Luis Ramírez",
+                "María López",
+                "Paola Méndez",
+                "Sofía Castro"
+            ],
+            "horarios": {
+                "entrada": "08:00",
+                "salida": "17:00",
+                "tolerancia_min": 10,
+                "dias_laborales": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "dias_horarios": {
+                    "5": {
+                        "activo": true,
+                        "entrada": "09:00",
+                        "salida": "13:00",
+                        "tolerancia_min": 10
+                    }
+                },
+                "especiales": [
+                    {
+                        "nombre": "Turno de cosecha",
+                        "entrada": "06:00",
+                        "salida": "14:00",
+                        "tolerancia_min": 10,
+                        "dias_laborales": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5
+                        ],
+                        "dias_horarios": {
+                            "5": {
+                                "activo": true,
+                                "entrada": "09:00",
+                                "salida": "13:00",
+                                "tolerancia_min": 10
+                            }
+                        },
+                        "empleados": [
+                            "Ana Torres"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "nombre": "Caseta Sur",
+            "ip": "192.0.2.11",
+            "port": 80,
+            "marca": "hikvision",
+            "usuario": "admin",
+            "password": "",
+            "empleados": [
+                "Ana Torres",
+                "Diego Herrera",
+                "Emilio Vargas",
+                "Jorge Salinas",
+                "Luis Ramírez",
+                "María López",
+                "Paola Méndez",
+                "Sofía Castro"
+            ],
+            "empleados_descargados": [
+                "Ana Torres",
+                "Diego Herrera",
+                "Emilio Vargas",
+                "Jorge Salinas",
+                "Luis Ramírez",
+                "María López",
+                "Paola Méndez",
+                "Sofía Castro"
+            ],
+            "horarios": {
+                "entrada": "08:00",
+                "salida": "17:00",
+                "tolerancia_min": 10,
+                "dias_laborales": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "dias_horarios": {
+                    "5": {
+                        "activo": true,
+                        "entrada": "09:00",
+                        "salida": "13:00",
+                        "tolerancia_min": 10
+                    }
+                },
+                "especiales": [
+                    {
+                        "nombre": "Turno de cosecha",
+                        "entrada": "06:00",
+                        "salida": "14:00",
+                        "tolerancia_min": 10,
+                        "dias_laborales": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5
+                        ],
+                        "dias_horarios": {
+                            "5": {
+                                "activo": true,
+                                "entrada": "09:00",
+                                "salida": "13:00",
+                                "tolerancia_min": 10
+                            }
+                        },
+                        "empleados": [
+                            "Ana Torres"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "personas_sistema": [
+        "Ana Torres",
+        "Diego Herrera",
+        "Emilio Vargas",
+        "Jorge Salinas",
+        "Luis Ramírez",
+        "María López",
+        "Paola Méndez",
+        "Sofía Castro"
+    ],
+    "personas_eliminadas": [],
+    "personas_biometria": [
+        {
+            "persona_id": "1002",
+            "nombre": "Luis Ramírez",
+            "checador": "Caseta Norte",
+            "estado": "pendiente_obligatoria",
+            "tipo_confirmado": "huella",
+            "huella": "pendiente",
+            "rostro": "no_solicitado",
+            "modo_rostro": "no_aplica",
+            "acceso": "no_aplica",
+            "actualizado_en": "2026-10-22T16:21:00",
+            "detalle": "Huella pendiente de captura en el equipo."
+        },
+        {
+            "persona_id": "1001",
+            "nombre": "Ana Torres",
+            "checador": "Caseta Sur",
+            "estado": "confirmada",
+            "tipo_confirmado": "rostro",
+            "huella": "no_solicitada",
+            "rostro": "enviado_y_confirmado",
+            "modo_rostro": "facial_confirmado",
+            "acceso": "permiso_confirmado",
+            "actualizado_en": "2026-10-22T16:20:00",
+            "detalle": "Plantilla facial y permiso verificados."
+        }
+    ],
+    "dias_no_laborados": [
+        {
+            "fecha": "2026-10-12",
+            "motivo": "Día festivo"
+        },
+        {
+            "fecha": "2026-10-19",
+            "motivo": "Mantenimiento de casetas"
+        }
+    ],
+    "horarios": {
+        "entrada": "08:00",
+        "salida": "17:00",
+        "tolerancia_min": 10,
+        "dias_laborales": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "dias_horarios": {
+            "5": {
+                "activo": true,
+                "entrada": "09:00",
+                "salida": "13:00",
+                "tolerancia_min": 10
+            }
+        },
+        "especiales": [
+            {
+                "nombre": "Turno de cosecha",
+                "entrada": "06:00",
+                "salida": "14:00",
+                "tolerancia_min": 10,
+                "dias_laborales": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "dias_horarios": {
+                    "5": {
+                        "activo": true,
+                        "entrada": "09:00",
+                        "salida": "13:00",
+                        "tolerancia_min": 10
+                    }
+                },
+                "empleados": [
+                    "Ana Torres"
+                ]
+            }
+        ]
+    }
+}

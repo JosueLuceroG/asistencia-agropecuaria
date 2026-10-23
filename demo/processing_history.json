@@ -1,0 +1,17 @@
+[
+  {
+    "file_name": "reporte-ejemplo.xlsx",
+    "file_path": "demo/reporte-ejemplo.xlsx",
+    "processed_at": "2026-10-23T10:46:00",
+    "device": "Caseta Norte + Caseta Sur",
+    "mode": "Diario",
+    "period": "23/10/2026 - 23/10/2026",
+    "status": "Completado",
+    "result": "Excel generado",
+    "records": 16,
+    "people": 8,
+    "meals": 0,
+    "errors": 0,
+    "output_path": "demo/reporte-ejemplo.xlsx"
+  }
+]
